@@ -1,0 +1,10 @@
+# Padrões de Projeto - Builder
+
+O padrão de projeto Builder é um padrão de criação que separa a construção de um objeto complexo da sua representação, 
+permitindo que o mesmo processo de construção possa criar diferentes representações do objeto.
+A ideia por trás deste padrão é dividir a construção de um objeto em etapas menores, 
+cada uma com seu próprio método e parâmetros, para que o objeto possa ser construído passo a passo. Assim, 
+a construção do objeto torna-se mais flexível, permitindo que diferentes combinações de métodos possam ser 
+utilizadas para construir diferentes representações do mesmo objeto.
+O padrão Builder é muito útil em situações em que a criação de um objeto complexo envolve muitas etapas e parâmetros diferentes, 
+ou quando diferentes representações do mesmo objeto são necessárias.
